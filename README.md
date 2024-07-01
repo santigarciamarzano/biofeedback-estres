@@ -2,7 +2,11 @@
 
 ## Descripción
 
+ENTRENAMIENTO ML Y DESPLIEGUE CON STREAMLIT
 Este proyecto genera datos simulados para estudios de biofeedback y estrés, entrenando modelos de clasificación y regresión para predecir tratamientos y tiempos de recuperación.
+Tiene un bloque generador de datos sintéticos y de visualización.
+Luego los bloques de entrenamiento y predicción.
+Por ultimo un bloque para despliegue en puerto local con streamlit
 
 
 ## Instalación
